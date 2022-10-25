@@ -1,0 +1,27 @@
+
+[
+    {
+      "id": "01",
+      "name": "HTML Course"
+    },
+    {
+      "id": "02",
+      "name": "CSS Course"
+    },
+    {
+      "id": "03",
+      "name": "Javascript Course"
+    },
+    {
+      "id": "04",
+      "name": "React Course"
+    },
+    {
+      "id": "05",
+      "name": "PHP Course"
+    },
+    {
+      "id": "06",
+      "name": "C++ Course"
+    }
+]
