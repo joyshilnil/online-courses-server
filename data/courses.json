@@ -1,27 +1,45 @@
 
 [
-    {
-      "id": "01",
-      "name": "HTML Course"
-    },
-    {
-      "id": "02",
-      "name": "CSS Course"
-    },
-    {
-      "id": "03",
-      "name": "Javascript Course"
-    },
-    {
-      "id": "04",
-      "name": "React Course"
-    },
-    {
-      "id": "05",
-      "name": "PHP Course"
-    },
-    {
-      "id": "06",
-      "name": "C++ Course"
-    }
+  {
+    "id": "01",
+    "name": "HTML Course",
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "image": "https://prod-discovery.edx-cdn.org/media/course/image/776db6bd-54a0-4625-ba3d-1204fb922859-1df9ac41ffdf.small.jpg",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "id": "02",
+    "name": "CSS Course",
+    "title": "qui est esse",
+    "image": "https://prod-discovery.edx-cdn.org/media/course/image/32f1ba67-31e7-4b85-aa65-a4687036231c-80139b7286a9.small.png",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+  {
+    "id": "03",
+    "name": "Javascript Course",
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "image": "https://prod-discovery.edx-cdn.org/media/course/image/c50943b5-3375-4d50-9f91-911930551603-5703bb2a02c8.small.png",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    "id": "04",
+    "name": "React Course",
+    "title": "eum et est occaecati",
+    "image": "https://couponos.me/wp-content/uploads/Complete-React-Developer.jpg",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "id": "05",
+    "name": "PHP Course",
+    "title": "nesciunt quas odio",
+    "image": "https://mindqsystems.com/wp-content/uploads/2019/08/php-training.jpg",
+    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+  },
+  {
+    "id": "06",
+    "name": "C++ Course",
+    "title": "dolorem eum magni eos aperiam quia",
+    "image": "https://sf.ezoiccdn.com/ezoimgfmt/www.tangolearn.com/wp-content/uploads/2022/01/best-c-plus-plus.jpg",
+    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+  }
 ]
