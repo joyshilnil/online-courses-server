@@ -3,43 +3,43 @@
   {
     "id": "1",
     "name": "HTML Course",
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
     "image": "https://prod-discovery.edx-cdn.org/media/course/image/776db6bd-54a0-4625-ba3d-1204fb922859-1df9ac41ffdf.small.jpg",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "body": "Become a modern and confident HTML and CSS developer, no prior knowledge needed! Important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc. How to plan, sketch, design, build, test, and optimize a professional website"
   },
   {
     "id": "2",
     "name": "CSS Course",
-    "title": "qui est esse",
+    "title": "CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
     "image": "https://prod-discovery.edx-cdn.org/media/course/image/32f1ba67-31e7-4b85-aa65-a4687036231c-80139b7286a9.small.png",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "body": "Flexbox, grid, animations, transitions, fonts, media queries and much more - it's all included!Build beautiful websites which don't just contain great content but also look good. Understand the concepts and theory behind CSS and certain CSS features."
   },
   {
     "id": "3",
     "name": "Javascript Course",
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
     "image": "https://prod-discovery.edx-cdn.org/media/course/image/c50943b5-3375-4d50-9f91-911930551603-5703bb2a02c8.small.png",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "body": "Become an advanced, confident, and modern JavaScript developer from scratch. JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc."
   },
   {
     "id": "4",
     "name": "React Course",
-    "title": "eum et est occaecati",
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
     "image": "https://couponos.me/wp-content/uploads/Complete-React-Developer.jpg",
-    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    "body": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now. Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now. Build powerful, fast, user-friendly and reactive web apps."
   },
   {
     "id": "5",
     "name": "PHP Course",
-    "title": "nesciunt quas odio",
+    "title": "PHP for Beginners - Become a PHP Master - CMS Project",
     "image": "https://mindqsystems.com/wp-content/uploads/2019/08/php-training.jpg",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    "body": "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla. You will learn how to use Databases. How to use AJAX to submit data to the server without refreshing the page. You will learn to create clean URL's and remove the .php from files. You will learn to use bootstrap by getting experience from the project."
   },
   {
     "id": "6",
     "name": "C++ Course",
-    "title": "dolorem eum magni eos aperiam quia",
+    "title": "Beginning C++ Programming - From Beginner to Beyond",
     "image": "https://sf.ezoiccdn.com/ezoimgfmt/www.tangolearn.com/wp-content/uploads/2022/01/best-c-plus-plus.jpg",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    "body": "Learn C++ using a proven curriculum that covers more material than most C++ university courses. Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments. Learn Modern C++ rather than an obsolete version of C++ that most other courses teach."
   }
 ]
